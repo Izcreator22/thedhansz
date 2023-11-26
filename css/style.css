@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Roboto:wght@100&family=Vina+Sans&display=swap');
+p,h1{
+    color: red;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'cursive';
+    font-style: italic;
+
+    text-decoration-line: underline;  
+    text-decoration-color: purple;
+    text-decoration-style: dashed;
+}
+a{
+    color: yellow;
+    font-weight: 400;
+    font-size: large;
+    font-family: 'Roboto';
+    font-style: Italic;
+}
+
+/*font: italic 700 30px Roboto;*/
+
