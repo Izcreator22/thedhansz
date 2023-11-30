@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Roboto:wght@100&family=Vina+Sans&display=swap');
+
+h1{
+    font-family: Arial;
+    color: aquamarine;
+    margin-left:50%;
+    display: inline;
+}
+
+h2{
+    font-family: Helvetica;
+    color: blueviolet;
+    margin-left:50%;
+    display: inline;
+}
+
+p{
+    font-family: sans-serif;
+
+}
+
+pre{
+    font-family:'Gill Sans';
+    display: inline;
+
+}
+
+.img{
+    margin-left: 350px;
+}
+
+.but1{
+    font-size: 30px;
+    margin-left: 20px;
+    color: aqua;
+}
+
+.but2{
+    font-size:30px;
+    margin-left: 20px;
+    color: aqua;
+}
+
+.but3{
+    font-size:30px;
+    margin-left:20px;
+    color: aqua;
+}
+
+.but4{
+    font-size:30px;
+    margin-left:20px;
+    color: aqua
+}
